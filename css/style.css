@@ -1,3 +1,13 @@
+.enlace{
+        text-decoration: none;
+    border: black 2px solid;
+    margin: 5px;
+}
+.enlace:hover{
+    background-color: #4563a8; 
+  border-bottom: 2px solid #4563a8;
+}
+
 .noticias{
 max-width: 400px;
 max-height: 50px;
@@ -50,7 +60,7 @@ h3{
     
 }
 .main{
-    background-color: blueviolet;
+    background-color: #243357;
     min-width: 1000px;
 
 }
