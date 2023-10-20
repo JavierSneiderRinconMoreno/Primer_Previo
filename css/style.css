@@ -67,7 +67,8 @@ h3{
 .aside{
     min-width: 200px;
     min-height: 400px;
-    background-color: steelblue;
+    background-color: #6490F5;
+    ;
 }
 .doble{
     display:flex;
