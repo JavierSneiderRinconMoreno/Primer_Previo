@@ -1,0 +1,44 @@
+div{
+    align-items: center;
+
+}
+h1{
+    text-align: center;
+}
+h3{
+    font-size: 1.5em; 
+  font-weight: bold; 
+}
+.viñetas{
+    list-style-type: none;
+}
+.img_Index{
+    height: 60px;
+    width: 60px;
+}
+.header{
+    display: flex;
+    max-width: 1200px ;
+    min-height: 120px;
+    background-color: #4563a8;
+    
+}
+.main{
+    background-color: blueviolet;
+    min-width: 1000px;
+
+}
+.aside{
+    min-width: 200px;
+    min-height: 400px;
+    background-color: steelblue;
+}
+.doble{
+    display:flex;
+}
+
+
+.footer{
+    min-width: 600px;
+    background-color: #567bd1;
+}
