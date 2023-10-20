@@ -1,3 +1,14 @@
+.txt_derecha{
+    text-align: center;
+}
+
+
+/*Tercer Punto */
+.viñetas{
+    list-style-type: none;
+}
+
+/*Segundo Punto*/
 div{
     align-items: center;
 
@@ -6,16 +17,17 @@ h1{
     text-align: center;
 }
 h3{
+    margin-bottom: none;
     font-size: 1.5em; 
   font-weight: bold; 
-}
-.viñetas{
-    list-style-type: none;
 }
 .img_Index{
     height: 60px;
     width: 60px;
 }
+
+
+/*Primer Punto */
 .header{
     display: flex;
     max-width: 1200px ;
@@ -41,4 +53,12 @@ h3{
 .footer{
     min-width: 600px;
     background-color: #567bd1;
+    min-height: 80px;
+    max-height: 80px;
+}
+
+
+
+body{
+    max-width: 1200px;
 }
